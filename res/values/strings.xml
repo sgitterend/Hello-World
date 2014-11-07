@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello10265732</string>
+    <string name="hello_world">Hello, world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="screen_2">Welcome to the second screen! :-)</string>
+    <string name="button_next">Next</string>
+    <string name="button_kill">Kill</string>
+    <string name="title_activity_next_page">Still Hello there</string>
+
+</resources>
